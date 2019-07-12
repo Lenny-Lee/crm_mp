@@ -5,8 +5,8 @@ import Index from './pages/index'
 import "@tarojs/async-await"
 import { Provider } from "@tarojs/redux"
 // import { globalData } from "./utils/common";
-import dva from '@/utils/dva'
-import models from '@/models/index'
+import dva from './utils/dva'
+import models from './models/index'
 
 import './app.less'
 

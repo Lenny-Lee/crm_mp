@@ -1,3 +1,4 @@
+const path = require('path')
 const config = {
   projectName: 'crm_mp',
   date: '2019-7-12',
